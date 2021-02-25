@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Symfony 5 & React Native**
 
-- 📫 How to reach me **semihbasak25@gmail.com**
+- 📫 Reach me **semihbasak25@gmail.com** !
 
 - ⚡ Fun fact **I love funds bugs and correct it !**<br>
 
