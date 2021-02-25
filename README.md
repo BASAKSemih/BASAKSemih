@@ -4,11 +4,11 @@
 <br>
 
 
-- 🌱 I’m currently learning **Symfony 5 & React Native**<br><br>
+- 🌱 I’m currently learning **Symfony 5 & React Native**
 
 - 📫 How to reach me **semihbasak25@gmail.com**
 
-- ⚡ Fun fact **I love funds bugs and correct it !**
+- ⚡ Fun fact **I love funds bugs and correct it !**<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,7 +17,7 @@
 
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=basaksemih&show_icons=true&locale=en" alt="basaksemih" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=basaksemih&show_icons=true&locale=en" alt="basaksemih" /></p><br>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basaksemih&" alt="basaksemih" /></p>
