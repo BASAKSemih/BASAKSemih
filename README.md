@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Symfony 5
 - 🥅 2020 Goals: Contribute more to Open Source projects, be the best  !
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love correct bugs !
 
 
 ### Languages and Tools:
