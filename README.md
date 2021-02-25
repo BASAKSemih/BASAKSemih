@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, It' Semih !</h1>
 <h3 align="center">A passionate developer !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basaksemih&label=Profile%20views&color=0e75b6&style=flat" alt="basaksemih" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basaksemih" alt="basaksemih" /></a> </p>
 
 - 🌱 I’m currently learning **Symfony 5 & React Native**
-
-- 👨‍💻 All of my projects are available at [Soon](Soon)
 
 - 📫 How to reach me **semihbasak25@gmail.com**
 
@@ -22,3 +17,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basaksemih&show_icons=true&locale=en" alt="basaksemih" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basaksemih&" alt="basaksemih" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=basaksemih&label=Profile%20views&color=0e75b6&style=flat" alt="basaksemih" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basaksemih" alt="basaksemih" /></a> </p>
