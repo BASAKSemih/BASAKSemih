@@ -4,7 +4,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **Symfony 5 & React Native**
+- 🌱 I’m currently learning **C# & Xamarin**
 
 - 📫 Reach me **semihbasak25@gmail.com** !
 
