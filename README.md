@@ -17,7 +17,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basaksemih&label=Profile%20views&color=0e75b6&style=flat" alt="basaksemih" /> </p>
-<p>&nbsp;
+<p>&nbsp;<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=basaksemih&show_icons=true&locale=en" alt="basaksemih" /></p><br>
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=basaksemih&" alt="basaksemih" />
