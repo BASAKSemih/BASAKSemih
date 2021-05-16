@@ -4,7 +4,6 @@
 <br>
 
 
-- 🌱 I’m currently learning **C# & Xamarin**
 
 - 📫 Reach me **semihbasak25@gmail.com** !
 
