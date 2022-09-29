@@ -7,7 +7,6 @@
 
 - 📫 Reach me **semihbasak25@gmail.com** !
 
-- ⚡ Fun fact **I love funds bugs and correct it !**<br>
 
 
 
