@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, It' Semih !</h1>
 <br>
 <h3 align="center">A PHP/Symfony Back-End Developer</h3>
-
 - 👨‍💻 All of my projects are available at [https://www.basaksemih.com/](https://www.basaksemih.com/)
-
 - 📫 How to reach me **semihbasak25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
