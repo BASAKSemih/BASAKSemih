@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **semihbasak25@gmail.com**
 
-i'm 23 year, my Portfolio : basaksemih.com
+i'm 23 year, my Portfolio : https://basaksemih.com/
 Looking for jobs :D
 
 
